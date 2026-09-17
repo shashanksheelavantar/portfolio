@@ -6,9 +6,9 @@ export const experience = [
   {
     id: "algorithm365",
     organization: "Algorithm365",
-    role: "Placeholder — exact role/title not yet supplied",
-    period: "Placeholder — start/end dates not yet supplied",
-    type: "Internship / Training",
+    role: "AI READY SOFTWARE DEVELOPER INTERN",
+    period: "present",
+    type: "Internship ",
     description:
       "AI READY SOFTWARE DEVELOPER INTERN",
     highlights: [

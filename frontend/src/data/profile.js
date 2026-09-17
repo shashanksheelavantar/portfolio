@@ -1,6 +1,6 @@
 export const profile = {
   name: "Shashank Sheelavantar",
-  role: "Software Developer",
+  role: "Software Developer Intern",
   taglineTech: ["Java", "DSA", "React", "Node.js", "PostgreSQL"],
   intro:
     "I'm a software developer who enjoys building complete, working products — from data structures and algorithms to full-stack web applications. I like understanding systems end to end: how a request moves from the browser, through an API, into a database, and back.",
