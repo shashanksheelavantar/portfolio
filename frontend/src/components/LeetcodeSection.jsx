@@ -33,10 +33,10 @@ export default function LeetcodeSection() {
           </div>
 
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-6">
-            <StatCard label="Total Solved" value={data.stats.totalSolved} />
-            <StatCard label="Easy" value={data.stats.easy} tone="easy" />
-            <StatCard label="Medium" value={data.stats.medium} tone="medium" />
-            <StatCard label="Hard" value={data.stats.hard} tone="hard" />
+            <StatCard label="Total Solved" value = "100" />
+            <StatCard label="Easy" value="75" tone="easy" />
+            <StatCard label="Medium" value="15" tone="medium" />
+            <StatCard label="Hard" value="10" tone="hard" />
           </div>
 
           <p className="text-xs text-muted bg-surface-2 border border-border rounded-lg px-3 py-2.5">

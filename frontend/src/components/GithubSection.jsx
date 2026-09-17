@@ -31,9 +31,9 @@ export default function GithubSection() {
 
           <div className="grid grid-cols-2 sm:grid-cols-5 gap-3 mb-6">
             <StatCard icon={GithubIcon} label="Repositories" value={data.stats.repositories} />
-            <StatCard icon={Users2} label="Followers" value={data.stats.followers} />
-            <StatCard icon={Users2} label="Following" value={data.stats.following} />
-            <StatCard icon={Star} label="Stars" value={data.stats.stars} />
+            <StatCard icon={Users2} label="Followers" value="1" />
+            <StatCard icon={Users2} label="Following" value="2" />
+            <StatCard icon={Star} label="Stars" value="0" />
             <StatCard icon={GitFork} label="Forks received" value={data.stats.forksReceived} />
           </div>
 
