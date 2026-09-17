@@ -10,9 +10,9 @@ export const experience = [
     period: "Placeholder — start/end dates not yet supplied",
     type: "Internship / Training",
     description:
-      "Placeholder — add a short, accurate description of what this role involved once details are available.",
+      "AI READY SOFTWARE DEVELOPER INTERN",
     highlights: [
-      "Placeholder — add real responsibilities or outcomes here",
+      "https://github.com/shashanksheelavantar/java_algorithms",
     ],
     technologies: [],
   },
@@ -20,14 +20,14 @@ export const experience = [
 
 export const careerTimeline = [
   {
-    year: "2024",
+    year: "2022",
     title: "Started programming",
     description: "Began learning programming fundamentals.",
     technologies: [],
     relatedProject: null,
   },
   {
-    year: "2025",
+    year: "2023",
     title: "Java + DSA + Web Development",
     description: "Focused on Java, data structures & algorithms, and web development fundamentals.",
     technologies: ["Java", "DSA", "HTML", "CSS", "JavaScript"],
@@ -39,6 +39,6 @@ export const careerTimeline = [
     description:
       "Joined Algorithm365 (details to be added), built full-stack projects (InternHub, Study Buddy, ProjectHub), and explored AI/hackathon work.",
     technologies: ["React", "Node.js", "PostgreSQL", "Python"],
-    relatedProject: "internhub",
+    relatedProject: "internshiphub-dfz4u2vah-shashanksheelavantar93-6959.vercel.app",
   },
 ];

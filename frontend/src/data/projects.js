@@ -19,7 +19,7 @@ export const projects = [
       "Announcements",
       "Calendar & events",
     ],
-    links: { demo: null, github: null, isPlaceholder: true },
+    links: { demo: "http://localhost:5173/login", github: "https://github.com/shashanksheelavantar/internshiphub", isPlaceholder: true },
     caseStudy: {
       problem:
         "Small internship teams often juggle task tracking, attendance, and progress updates across disconnected tools (spreadsheets, chat threads, sticky notes), making it hard for a team lead to see a clear picture of where things stand.",

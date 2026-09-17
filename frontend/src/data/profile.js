@@ -15,8 +15,8 @@ export const profile = {
 
 export const education = [
   {
-    degree: "Placeholder — degree, institution, and year not yet supplied",
-    note: "Add your education details here.",
+    degree: "Alvas institue of engineering and technology",
+    note: "B.E",
   },
 ];
 
